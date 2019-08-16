@@ -1,29 +1,14 @@
-Skip to content
- 
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@KatzeWolf 
-105,409
-primer/_layouts/default.html
-@benbalter benbalter use anchor JS via CDN with SRI
-0dd5532 on 10 Apr 2018
-@benbalter @EricFromCanada @shawnbot @jldec
-39 lines (35 sloc)  1.58 KB
-    
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
+{% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
   </head>
   <body>
-    <div class="container-lg px-3 my-5 markdown-body">
-      {% if site.title and site.title != page.title %}
-      <h1><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></h1>
       {% endif %}
 
       {{ content }}
@@ -48,15 +33,3 @@ primer/_layouts/default.html
     {% endif %}
   </body>
 </html>
-© 2019 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
