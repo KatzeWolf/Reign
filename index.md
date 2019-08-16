@@ -1,6 +1,6 @@
 ## Menu
 
-<a href="Clan Wars Schedule.md">Clan Wars Schedule</a>
+[a relative link](Clan Wars Schedule.md)
 
 # Clan Wars Schedule
 ### Jump 1
