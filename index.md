@@ -1,8 +1,3 @@
-## Menu
-
-[Clan Wars Schedule](Clan Wars Schedule.md)
-
----
 
 # Event - Regicide ![this screenshot](/assets/regicide.png)
 ### The Final Hunt
