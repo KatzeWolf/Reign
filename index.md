@@ -4,7 +4,7 @@
 <br>
 
 <p align="center">
-  <src="https://raw.githubusercontent.com/KatzeWolf/Reign/master/assets/bush.png">
+  <img width="100%" height="100%" src="https://raw.githubusercontent.com/KatzeWolf/Reign/master/assets/bush.png">
 </p>
 
 <h1 align="center">
