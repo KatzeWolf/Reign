@@ -7,9 +7,9 @@
   <img width="30%" height="30%" src="https://raw.githubusercontent.com/KatzeWolf/Reign/master/assets/bush.png">
 </p>
 
-<h1 align="center">
+<h2 align="center">
   Nothing to see here
-</h1>
+</h2>
 
 <br>
 <br>
