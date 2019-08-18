@@ -1,6 +1,8 @@
 ## Menu
 [Clan Wars Schedule](Clan Wars Schedule.md)
 
+<br>
+
 <p align="center">
   <img width="460" height="300" src="/assets/bush.png">
 </p>
