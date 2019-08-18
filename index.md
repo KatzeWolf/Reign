@@ -11,7 +11,9 @@
   Nothing to see here
 </h1>
 
-![this screenshot](/assets/bush.png).
-### Nothing to see here
+<br>
+<br>
+<br>
+<br>
 
 https://github.com/KatzeWolf/Reign
